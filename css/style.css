@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+div img{
+    display:block;
+    width:100%;
+    border:0;
+	max-width:1320px;
+    margin: auto;
+}
+
+div{
+    line-height: 0;
+}
+
